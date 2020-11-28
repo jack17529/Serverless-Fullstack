@@ -1,2 +1,2 @@
-# Serverless-Customer-Fullstack
+# Serverless-Fullstack-API
 
